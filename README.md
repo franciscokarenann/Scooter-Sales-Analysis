@@ -1,5 +1,5 @@
 # Scooter-Sales-Analysis
-Scooter Sales Analysis
+
 
 Problem: 
 ABC Company, manufacturer and seller of electric scooters, located in Toronto, noticed there were a sudden drop of 20% of pre-orders for Bat Scooters.
@@ -7,7 +7,7 @@ ABC Company, manufacturer and seller of electric scooters, located in Toronto, n
 Objective:
 As an anaayst, the goal of the project is to investigate, analyze, and provide business insights why this might have occured, post hoc.
 
-1.Investigate sales trends and marketing emails for Bat scooter.
+1. Investigate sales trends and marketing emails for Bat scooter.
 
 2. Perform comparative analysis of the sales pattern of Bat scooter, Bat Limited Edition and Lemon model 2013 scooters based on:
    
